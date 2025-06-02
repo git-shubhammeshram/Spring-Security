@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+D:\IJ-PROJECTS\Java Developement\Spring Boot\Spring Secuirty\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4129226374.index
+\SpringSecurity-BasicAuthentication\src\main\java
+D:\IJ-PROJECTS\Java Developement\Spring Boot\Spring Secuirty\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\613627397.index
+\SpringSecurity-BasicAuthenticationDatabase\src\main\java
+D:\IJ-PROJECTS\Java Developement\Spring Boot\Spring Secuirty\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\173679658.index
+\SpringSecurity-BasicAuthentication [In Mysql Database]\src\main\java
+D:\IJ-PROJECTS\Java Developement\Spring Boot\Spring Secuirty\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\517485006.index
+\SpringSecurity-BasicAuthentication [In Memory Database]\src\main\java
+D:\IJ-PROJECTS\Java Developement\Spring Boot\Spring Secuirty\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1436295139.index
+\SpringSecurity-BasicAuthenticationMysqlDatabase\src\main\java
+D:\IJ-PROJECTS\Java Developement\Spring Boot\Spring Secuirty\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2766536264.index
+\SpringSecurity-BasicAuthentication [In Memory Database]2\src\main\java

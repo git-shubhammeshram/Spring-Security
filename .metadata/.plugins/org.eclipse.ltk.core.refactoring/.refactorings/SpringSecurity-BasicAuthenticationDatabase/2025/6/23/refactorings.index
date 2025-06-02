@@ -1,0 +1,8 @@
+1748853524019	Extract local variable 'access'
+1748853595580	Extract local variable 'user'
+1748854081883	Rename type 'UserDetailsServiceImplements'
+1748854466697	Extract local variable 'userType'
+1748855154583	Rename type 'UserAuthenticationCredentials'
+1748855222132	Rename type 'UserAuthenticationCredentialsRepository'
+1748856396110	Rename type 'SecurityAuthrazationConfiguration'
+1748856506268	Rename type 'UserAuthenticationCredentialsService'

@@ -1,0 +1,5 @@
+package com.springsecurity.entity;
+
+public enum UserRole {
+	USER, ADMIN
+}
